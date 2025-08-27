@@ -120,7 +120,7 @@ export default function Home() {
                     <li>
                       <span className="font-semibold">Pre-Incubation Program:</span>
                       <ul className="list-disc pl-4 mt-1 text-gray-600 space-y-1">
-                        <li><span className="font-semibold">ISPROUTE 4.0:</span> A flagship program for aspiring entrepreneurs, exclusive for ISB PGP Co '25.</li>
+                        <li><span className="font-semibold">ISPROUTE 4.0:</span> A flagship program for aspiring entrepreneurs, exclusive for ISB PGP Co &apos;25.</li>
                         <li><a href="#" className="text-blue-700 hover:underline text-xs">Learn more</a></li>
                       </ul>
                     </li>
