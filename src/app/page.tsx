@@ -58,10 +58,10 @@ export default function Home() {
                   {/* Text Column */}
                   <div className="xl:w-[44%] p-10 pr-12 text-[13px] leading-relaxed text-gray-700 flex flex-col space-y-5">
                     <p className="text-justify">
-                      I-Venture @ ISB fosters entrepreneurship and nurtures start-ups. It administers business incubators that provide 'Start-to-Scale' support for entrepreneurship and facilitates the conversion of start-ups into profitable entrepreneurial ventures, apart from multidisciplinary research initiatives and academic programs that creates and strengthens entrepreneurial mindset and rigour.
+                      I-Venture @ ISB fosters entrepreneurship and nurtures start-ups. It administers business incubators that provide &apos;Start-to-Scale&apos; support for entrepreneurship and facilitates the conversion of start-ups into profitable entrepreneurial ventures, apart from multidisciplinary research initiatives and academic programs that creates and strengthens entrepreneurial mindset and rigour.
                     </p>
                     <p className="text-justify">
-                      We have very specific programs that will cater to entrepreneurs and ventures of all stages. I-Venture @ ISB is constantly working towards creating a strong ecosystem of mentors, VC's and Academicians to ensure startup's reach to market and their growth.
+                      We have very specific programs that will cater to entrepreneurs and ventures of all stages. I-Venture @ ISB is constantly working towards creating a strong ecosystem of mentors, VC&apos;s and Academicians to ensure startup&apos;s reach to market and their growth.
                     </p>
                     <a href="#" className="text-[11px] font-semibold text-blue-800 hover:text-blue-900 tracking-wide">MORE ABOUT I-VENTURE @ ISB →</a>
                   </div>
